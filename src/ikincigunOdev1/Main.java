@@ -1,4 +1,4 @@
-package ikincigünOdev1;
+package ikincigunOdev1;
 
 public class Main {
 
