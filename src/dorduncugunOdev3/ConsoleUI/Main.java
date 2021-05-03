@@ -1,4 +1,4 @@
-package dorduncugunOdev2KahveDukkani.Entities.ConsoleUI;
+package dorduncugunOdev3.ConsoleUI;
 
 import java.util.Date;
 
